@@ -32519,10 +32519,10 @@
   },
   {
     "sat_id":"LHKG-2370-4970-1896-6067",
-    "norad_cat_id":99146.0,
-    "norad_follow_id":57326.0,
-    "name":"StratoSat TK-1-E",
-    "names":"",
+    "norad_cat_id":57326.0,
+    "norad_follow_id":null,
+    "name":"StratoSat TK-1-D",
+    "names":"RS52SD",
     "image":"satellites\/e.jpg",
     "status":"alive",
     "decayed":null,
@@ -32534,8 +32534,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-20T23:07:02.400098Z",
-    "citation":"https:\/\/efir.net.ru\/satellite\/RS52SE\/",
+    "updated":"2024-05-29T00:41:48.945264Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32615,8 +32615,8 @@
   },
   {
     "sat_id":"ULWR-5929-7873-9279-5662",
-    "norad_cat_id":99142.0,
-    "norad_follow_id":57206.0,
+    "norad_cat_id":57206.0,
+    "norad_follow_id":null,
     "name":"AHMAT-1",
     "names":"RS41S",
     "image":"satellites\/large_Ahmat_1_7564081887.jpeg",
@@ -32630,8 +32630,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-23T12:57:37.182427Z",
-    "citation":"57208 SITRO-AIS-11",
+    "updated":"2024-05-29T00:33:18.740656Z",
+    "citation":"Change status",
     "is_frequency_violator":true,
     "associated_satellites":[
 

@@ -250,7 +250,7 @@
     "mode":"1145baudAFSK",
     "callsign":"RS41S",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"ULWR-5929-7873-9279-5662"
   },
   {
     "name":"AISat",
@@ -15518,7 +15518,7 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"LHKG-2370-4970-1896-6067"
   },
   {
     "name":"StratoSat-TK1-F",
