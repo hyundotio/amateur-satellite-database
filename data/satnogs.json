@@ -26044,7 +26044,7 @@
   {
     "sat_id":"HKPP-1325-5629-8692-2437",
     "norad_cat_id":99263.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55084.0,
     "name":"Gama Alpha",
     "names":"",
     "image":"satellites\/GAMA-Alpha-mission-patch-GAMA-1024x901.png",
@@ -26058,8 +26058,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T15:11:40.610129Z",
-    "citation":"https:\/\/nanoavionics.com\/news\/nanoavionics-and-gama-setting-sails-in-space\/",
+    "updated":"2024-06-23T12:14:35.597036Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-6-2023-01-03-14-56-utc\/9848\/142",
     "is_frequency_violator":false,
     "associated_satellites":[
 
