@@ -15148,7 +15148,7 @@
     "name":"MESAT-1",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2024-07-02T04:03:00Z",
     "deployed":"2024-07-02T04:58:13Z",
@@ -15158,7 +15158,7 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-02T00:34:30.220861Z",
+    "updated":"2024-07-02T04:05:28.937763Z",
     "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -31757,7 +31757,7 @@
     "name":"CatSat",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2024-07-02T04:03:00Z",
     "deployed":"2024-07-02T04:54:53Z",
@@ -31767,7 +31767,7 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-02T00:34:30.241978Z",
+    "updated":"2024-07-02T04:05:28.943777Z",
     "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -45357,7 +45357,7 @@
     "name":"SOC-i",
     "names":"",
     "image":"satellites\/SOC-i.png",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2024-07-02T04:03:00Z",
     "deployed":"2024-07-02T04:47:33Z",
@@ -45367,7 +45367,7 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-02T00:34:30.174925Z",
+    "updated":"2024-07-02T04:05:28.925001Z",
     "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -45381,7 +45381,7 @@
     "name":"KUbeSat-1",
     "names":"",
     "image":"satellites\/KUbeSat1.jpg",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2024-07-02T04:03:00Z",
     "deployed":"2024-07-02T04:56:43Z",
@@ -45391,7 +45391,7 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-02T00:34:30.197676Z",
+    "updated":"2024-07-02T04:05:28.931401Z",
     "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -45405,7 +45405,7 @@
     "name":"Serenity",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2024-07-02T04:03:00Z",
     "deployed":"2024-07-02T04:50:18Z",
@@ -45415,7 +45415,7 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-02T00:34:30.152474Z",
+    "updated":"2024-07-02T04:05:28.918488Z",
     "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -45429,7 +45429,7 @@
     "name":"R5-S2-2.0",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2024-07-02T04:03:00Z",
     "deployed":"2024-07-02T04:53:23Z",
@@ -45439,7 +45439,7 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-02T00:34:30.044495Z",
+    "updated":"2024-07-02T04:05:28.904435Z",
     "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -45453,7 +45453,7 @@
     "name":"TechEdSat-11",
     "names":"TES-11",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2024-07-02T04:03:00Z",
     "deployed":"2024-07-02T04:48:38Z",
@@ -45463,7 +45463,7 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-02T00:34:29.999407Z",
+    "updated":"2024-07-02T04:05:28.895437Z",
     "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -45477,7 +45477,7 @@
     "name":"R5-S4",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2024-07-02T04:03:00Z",
     "deployed":"2024-07-02T04:51:53Z",
@@ -45487,7 +45487,7 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-02T00:34:30.092650Z",
+    "updated":"2024-07-02T04:05:28.911763Z",
     "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
