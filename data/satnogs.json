@@ -884,7 +884,7 @@
         "decoder":"no44"
       }
     ],
-    "updated":"2024-05-29T16:55:37.657819Z",
+    "updated":"2024-07-02T17:57:59.359794Z",
     "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -22668,7 +22668,7 @@
     "citation":"Satellite Team",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "TLXZ-7745-5544-5793-2728"
     ]
   },
   {
@@ -22678,7 +22678,7 @@
     "name":"Skoltech B2",
     "names":"",
     "image":"satellites\/SkoltechB1_MM6Teqr.jpg",
-    "status":"dead",
+    "status":"alive",
     "decayed":null,
     "launched":"2022-08-09T00:00:00Z",
     "deployed":null,
@@ -22688,11 +22688,11 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-01T03:02:41.839029Z",
-    "citation":"Satellite Team plus SatNOGS observations",
+    "updated":"2024-07-03T00:38:28.133810Z",
+    "citation":"Change Status",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "ECMJ-5100-8664-1668-6289"
     ]
   },
   {
