@@ -3142,7 +3142,7 @@
     "name":"SPROUT",
     "names":"",
     "image":"satellites\/SPROUT.png",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":"2024-08-11T00:00:00Z",
     "launched":"2014-05-24T00:00:00Z",
     "deployed":null,
@@ -3152,8 +3152,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-13T00:15:51.036936Z",
-    "citation":"Temporarily change status",
+    "updated":"2024-08-13T07:54:58.126588Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19215,10 +19215,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
