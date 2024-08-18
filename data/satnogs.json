@@ -19215,10 +19215,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -46572,14 +46572,14 @@
     "decayed":null,
     "launched":"2024-08-16T18:56:00Z",
     "deployed":"2024-08-16T19:52:09Z",
-    "website":"",
+    "website":"https:\/\/www.emi.fraunhofer.de\/de\/aktuelles\/aktuelles-presse\/freiburger-satellit-soll-raketenstarts-erkennen-.html",
     "operator":"None",
-    "countries":"",
+    "countries":"DE",
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.997609Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-08-18T09:22:14.052089Z",
+    "citation":"I am the operator",
     "is_frequency_violator":false,
     "associated_satellites":[
 
