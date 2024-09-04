@@ -3845,7 +3845,7 @@
     "downlink":"401.510",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
+    "callsign":"CNT001",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -3856,7 +3856,7 @@
     "downlink":"401.520",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
+    "callsign":"CNT002",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -3867,7 +3867,7 @@
     "downlink":"401.530",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
+    "callsign":"CNT003",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -3878,7 +3878,7 @@
     "downlink":"401.540",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
+    "callsign":"CNT004",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -4494,7 +4494,7 @@
     "downlink":"400.650",
     "beacon":null,
     "mode":"1200bps BPSK",
-    "callsign":null,
+    "callsign":"VK2USY",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -14405,7 +14405,7 @@
     "downlink":"400.425",
     "beacon":null,
     "mode":"2400bps BPSK",
-    "callsign":null,
+    "callsign":"BN0TR2",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -18849,7 +18849,7 @@
     "downlink":"400.650",
     "beacon":null,
     "mode":"1200bps BPSK",
-    "callsign":null,
+    "callsign":"VK2USY",
     "status":"unknown",
     "satnogs_id":null
   },
