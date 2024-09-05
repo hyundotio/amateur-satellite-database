@@ -24341,7 +24341,7 @@
     "sat_id":"XWTX-3100-8924-6311-9373",
     "norad_cat_id":43664.0,
     "norad_follow_id":null,
-    "name":"Object C",
+    "name":"Xiaoxiang-3",
     "names":"",
     "image":"",
     "status":"alive",
@@ -24354,8 +24354,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-10-24T02:59:29.599016Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-09-05T00:31:29.179049Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/10173754\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
