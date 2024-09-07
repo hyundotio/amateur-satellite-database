@@ -3846,7 +3846,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"CNT001",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -3857,7 +3857,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"CNT002",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -3868,7 +3868,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"CNT003",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -3879,7 +3879,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"CNT004",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
