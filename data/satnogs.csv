@@ -2139,6 +2139,7 @@ UUIC-2721-5016-2935-6643,62460.0,,SDX02,2024-253B,,alive,,2024-12-30T00:00:00Z,2
 IMIN-5614-5566-5816-9152,98709.0,,INNOCUBE,,satellites/INNOCUBE.png,future,,,,https://www.tu.berlin/en/raumfahrttechnik/research/current-projects/innocube,TU Berlin,DE,[],2025-01-08T23:24:04.605168Z,image shared by mission team via public matrix channel,False,[]
 EIPI-1482-6978-9759-4787,98710.0,,HADES-R,,,future,,,,https://www.amsat-ea.org/,None,ES,[],2025-01-08T23:39:19.941598Z,fixed typo,False,[]
 ODBU-7441-1792-6088-6314,98708.0,,HYPE,,satellites/satlab_misja_HYPE_naszywka_RGB.png,future,,,,https://satlab.agh.edu.pl/nasze-projekty/,None,PL,[],2025-01-08T21:27:24.309980Z,https://iaru.amsat-uk.org/finished_detail.php?serialnum=969,False,[]
-UCZO-3697-9016-2037-7134,98707.0,,PARUS-T1,,,future,,,,,None,TW,[],2025-01-08T22:51:49.046479Z,https://iaru.amsat-uk.org/finished_detail.php?serialnum=982,False,[]
+UCZO-3697-9016-2037-7134,98707.0,,PARUS-T1,"BN0TIT, 山雀-T1",satellites/PARUS-T1.jpg,future,,2025-01-14T00:00:00Z,,,None,TW,[],2025-01-13T19:45:42.971288Z,https://community.libre.space/t/taiwan-parus-t1a-3u-cubesat-ready-to-go/12643/41,False,[]
 HNKQ-3878-6919-5321-0117,98706.0,,POQUITO,,,future,,,,,None,LU,[],2025-01-08T22:56:13.507123Z,https://az659834.vo.msecnd.net/eventsairwesteuprod/production-atpi-public/d32772262fd24bb881857f9355646e9f,False,[]
 JATP-9449-2569-0105-0544,98705.0,,PROMETHEUS-1,,,future,,,,,None,PT,[],2025-01-08T22:57:51.985229Z,https://github.com/AFS-pt/PROMETHEUS-1,False,[]
+LKHA-6040-0473-3608-3062,98704.0,,HCT-SAT1,,satellites/HCT-SAT-1.png,future,,,,,None,AE,[],2025-01-13T19:46:49.745756Z,Add temporary NORAD ID,True,[]

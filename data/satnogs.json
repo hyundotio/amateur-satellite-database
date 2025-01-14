@@ -51242,11 +51242,11 @@
     "norad_cat_id":98707.0,
     "norad_follow_id":null,
     "name":"PARUS-T1",
-    "names":"",
-    "image":"",
+    "names":"BN0TIT, \u5c71\u96c0-T1",
+    "image":"satellites\/PARUS-T1.jpg",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2025-01-14T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -51254,8 +51254,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-08T22:51:49.046479Z",
-    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=982",
+    "updated":"2025-01-13T19:45:42.971288Z",
+    "citation":"https:\/\/community.libre.space\/t\/taiwan-parus-t1a-3u-cubesat-ready-to-go\/12643\/41",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51305,6 +51305,30 @@
     "updated":"2025-01-08T22:57:51.985229Z",
     "citation":"https:\/\/github.com\/AFS-pt\/PROMETHEUS-1",
     "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LKHA-6040-0473-3608-3062",
+    "norad_cat_id":98704.0,
+    "norad_follow_id":null,
+    "name":"HCT-SAT1",
+    "names":"",
+    "image":"satellites\/HCT-SAT-1.png",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"AE",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-13T19:46:49.745756Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
