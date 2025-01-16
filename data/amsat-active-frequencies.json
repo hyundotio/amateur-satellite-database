@@ -2395,8 +2395,8 @@
     "uplink":"145.825",
     "downlink":"145.825\/436.850",
     "beacon":null,
-    "mode":"1k2AFSK APRS",
-    "callsign":null,
+    "mode":"1k2AFSK APRS_Digipeater",
+    "callsign":"BN0TIT-6",
     "satnogs_id":null
   },
   {
