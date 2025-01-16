@@ -7590,7 +7590,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Hades-T",
+    "name":"Hades-ICM",
     "norad_id":null,
     "uplink":null,
     "downlink":"436.666",
@@ -12668,7 +12668,7 @@
     "beacon":null,
     "mode":"1k2AFSK APRS",
     "callsign":null,
-    "status":"to be launched",
+    "status":"active",
     "satnogs_id":null
   },
   {
