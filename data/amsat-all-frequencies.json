@@ -7647,10 +7647,10 @@
   {
     "name":"Hades-B",
     "norad_id":"56992",
-    "uplink":"145.975",
+    "uplink":"145.925\/145.975",
     "downlink":"436.888",
     "beacon":"436.888",
-    "mode":"50\/300\/1k2 FSK FM CW*",
+    "mode":"50\/300\/1k2-9k6 FSK FM CW*",
     "callsign":"AO4URE",
     "status":"active",
     "satnogs_id":"UDZO-6677-3907-8516-6750"
@@ -16832,10 +16832,10 @@
   {
     "name":"SO-120",
     "norad_id":"56992",
-    "uplink":"145.975",
+    "uplink":"145.925\/145.975",
     "downlink":"436.888",
     "beacon":"436.888",
-    "mode":"50\/300\/1k2 FSK FM CW*",
+    "mode":"50\/300\/1k2-9k6 FSK FM CW*",
     "callsign":"AO4URE",
     "status":"active",
     "satnogs_id":"UDZO-6677-3907-8516-6750"
@@ -19934,10 +19934,10 @@
   {
     "name":"UreSat-1",
     "norad_id":"56992",
-    "uplink":"145.975",
+    "uplink":"145.925\/145.975",
     "downlink":"436.888",
     "beacon":"436.888",
-    "mode":"50\/300\/1k2 FSK FM CW*",
+    "mode":"50\/300\/1k2-9k6 FSK FM CW*",
     "callsign":"AO4URE",
     "status":"active",
     "satnogs_id":"UDZO-6677-3907-8516-6750"
