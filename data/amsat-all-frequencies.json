@@ -11645,7 +11645,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -15011,7 +15011,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
